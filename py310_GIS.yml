@@ -1,0 +1,35 @@
+name: py310_gis
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - jupyterlab-git
+  - matplotlib
+  - pandas 
+  - geopandas
+  - geojson
+  - pysal
+  - mapclassify
+  - osmnx
+  - pyrosm
+  - geopy
+  - geojson
+  - rasterio
+  - contextily
+  - folium
+  - mplleaflet
+  - bokeh
+  - pip
+  - unidecode
+  - beautifulsoup4
+  - numpy
+  - shapely
+  - pyproj
+  - pytz
+  - jenkspy
+  - pysal
+  - openpyxl
+  - gdal
